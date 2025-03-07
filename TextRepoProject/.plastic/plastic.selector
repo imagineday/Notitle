@@ -1,0 +1,4 @@
+repository "TextRepoProject@tj_imagineday@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
